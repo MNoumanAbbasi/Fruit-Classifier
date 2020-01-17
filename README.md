@@ -1,5 +1,7 @@
 # Fruit-Classifier
-Fruit classifier that can classify 120 different fruits and vegetables using fast.ai library.
+Fruit classifier that can classify **120 different fruits and vegetables** using fast.ai library.  
+  
+The model used is based on resnet34 and after fine tuning, the model reached 99.4% accuracy on the validation dataset.
 
 ## Requirements
 * fastai library
