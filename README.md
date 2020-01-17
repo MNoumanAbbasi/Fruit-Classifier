@@ -10,6 +10,8 @@ All instructions can be found in the Jupyter notebook. Use GPU hardware accelera
 
 ## Data
 Data for training was taken from Kaggle: [Fruits 360](https://www.kaggle.com/moltean/fruits).  
+You can also use your own dataset. You can refer to the [fast.ai documentation](https://docs.fast.ai/) for details on how to load your own dataset.  
+  
 As mentioned in the notebook, you can download and store the dataset on the runtime server or on Google Drive by mounting it.  
 
 **Note:** The Jupyter notebook was run using Google Colab. Therefore it is recommended, you use the same.
